@@ -12,8 +12,8 @@ Object detection model to detect hardhats in construction sites.
 | FPS | 10.9 | 8.7 |
 
 ## Model Weights
-- FP32 weights: [Google Drive Link]
-- FP16 ONNX weights: [Google Drive Link]
+- FP32 weights: https://drive.google.com/drive/folders/1Q13GJkK4wTjYjfZZG-4isNE__BIgxB8Q?usp=sharing
+- FP16 ONNX weights: https://drive.google.com/drive/folders/1Q13GJkK4wTjYjfZZG-4isNE__BIgxB8Q?usp=sharing
 
 ## How to Run
 ```bash
